@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @james-doran97
 - 👀 I’m interested in Data Science, Machine Learning, and Problem Solving.
-- 🌱 I’m currently learning Python, Thingworx, and Hitachi Lumada.
+- 🌱 I’m currently learning Python, JavaScript, Thingworx, AWS ML.
 - 💞️ I’m looking to collaborate on Data Science and IOT projects.
 - 📫 How to reach me: Email: boodoran@aol.com
 
