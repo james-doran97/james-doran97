@@ -9,7 +9,7 @@ developing the AWS MLOps accelerator, leading a SCRUM team working on an ML solu
 client, and working with a team in leading the MLOps Azure training project for a new onboard of
 graduates to the team.
 - 📫 How to reach me: 
-  - 📧 boodoran@aol.com, 
+  - 📧 jadoran1997@gmail.com, 
   - 🔵 https://www.linkedin.com/in/james-doran-24a5a1193/
 
 <!---
